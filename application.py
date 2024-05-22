@@ -6,7 +6,7 @@ app=application
 
 @application.route('/')
 def hello_world():
-    return 'Hello world:)'
+    return 'Hello Bhavisha & Megha:)'
 
 
 
